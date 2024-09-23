@@ -1,6 +1,6 @@
 
 
-<img align="center" src="logo.png" width=100% >
+<img align="center" src="https://raw.githubusercontent.com/Max1mus5/Max1mus5/main/logo.png" width=100% >
 <h3 align="center">Full Stack Developer specialized in React and Python</h3>
 
 <p align="center">
